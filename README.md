@@ -2,7 +2,7 @@
 [<img target="_blank" src="https://imgur.com/jqXICIf.jpg" width=900>](https://scikit-learn.org/stable/)
 
 ## Table of Content
-* [Problem Statement](#Problem Statement#)
+* (#Problem Statement#)
 * [Overview](#overview)
 * [Dataset](#dataset)
 * [Evaluation Metric](#evaluation_metric)
